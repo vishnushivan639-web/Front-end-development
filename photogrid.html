@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Responsive Photo Gallery</title>
+<style>
+  body {
+    margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+    background: #f2f2f2;
+  }
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 15px;
+  }
+  .gallery img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .gallery img:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
+  }
+</style>
+</head>
+<body>
+<h2>Responsive Photo Gallery</h2>
+<div >
+  <img src="https://picsum.photos/400/300?1" alt="">
+  <img src="https://picsum.photos/400/300?2" alt="">
+  <img src="https://picsum.photos/400/300?3" alt="">
+  <img src="https://picsum.photos/400/300?4" alt="">
+  <img src="https://picsum.photos/400/300?5" alt="">
+  <img src="https://picsum.photos/400/300?6" alt="">
+</div>
+</body>
+</html>
