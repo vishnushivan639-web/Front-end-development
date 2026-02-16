@@ -1,10 +1,11 @@
 https://vishnushivan639-web.github.io/Front-end-development/college.html
-![college html](https://github.com/user-attachments/assets/320c0b8b-3420-45ef-88c4-c4c2bc85128c)
+![notice board](https://github.com/user-attachments/assets/c4367224-69f0-4ccc-b45a-7de6bb28fd4b)
 https://vishnushivan639-web.github.io/Front-end-development/form.html
-![form html](https://github.com/user-attachments/assets/5e4ed015-3e1c-4694-bf96-5771dab7e3f8)
+![form output](https://github.com/user-attachments/assets/ee952edb-bad5-41a9-9dcc-64bac3726305)
 https://vishnushivan639-web.github.io/Front-end-development/personalinformation.html
-![personal information html](https://github.com/user-attachments/assets/5b5a5fa9-c3d7-4cfc-acc5-271239b0cf86)
+![personal information output](https://github.com/user-attachments/assets/b761458d-9ab7-4ff7-9fcf-b483aef37b1f)
 https://vishnushivan639-web.github.io/Front-end-development/photogrid.html
-![photo gallery](https://github.com/user-attachments/assets/5321d9a8-9c4f-4b2f-9693-eb5b5ea7315b)
+<img width="911" height="562" alt="image" src="https://github.com/user-attachments/assets/97708391-de2c-4f36-9427-8a383dce7c08" />
+
 
 
