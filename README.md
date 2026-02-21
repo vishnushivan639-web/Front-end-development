@@ -7,7 +7,6 @@ https://vishnushivan639-web.github.io/Front-end-development/personalinformation.
 https://vishnushivan639-web.github.io/Front-end-development/photogrid.html
 <img width="911" height="562" alt="image" src="https://github.com/user-attachments/assets/97708391-de2c-4f36-9427-8a383dce7c08" />
 https://vishnushivan639-web.github.io/Front-end-development/Landingpage.html
-https://vishnushivan639-web.github.io/Front-end-development/index.html
 ![login outside](https://github.com/user-attachments/assets/70e77bc7-2335-4e86-bd34-05d31e4acb0f)
 ![login inside](https://github.com/user-attachments/assets/c3006d2c-4194-43a7-9e92-4a8edc0be30b)
 
