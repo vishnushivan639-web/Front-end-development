@@ -1,0 +1,14 @@
+
+    nav {
+      background: #222;
+      padding: 15px;
+    }
+    nav a {
+      color: white;
+      margin-right: 20px;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    nav a:hover {
+      color: #00bcd4;
+    }
