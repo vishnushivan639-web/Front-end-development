@@ -19,4 +19,6 @@ https://vishnushivan639-web.github.io/Front-end-development/validation.html
 ![validation2](https://github.com/user-attachments/assets/563fcde7-38da-44fa-b2b5-8267fe8ecb13)
 https://vishnushivan639-web.github.io/Front-end-development/hover.html
 ![hover](https://github.com/user-attachments/assets/8f0eaaa2-3b86-444d-b8d8-ef224e7c9bce)
+https://vishnushivan639-web.github.io/Front-end-development/calculator.html
+![calculator](https://github.com/user-attachments/assets/f948ce17-23df-42c7-8491-35f333cb02f2)
 
