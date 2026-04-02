@@ -21,4 +21,6 @@ https://vishnushivan639-web.github.io/Front-end-development/hover.html
 ![hover](https://github.com/user-attachments/assets/8f0eaaa2-3b86-444d-b8d8-ef224e7c9bce)
 https://vishnushivan639-web.github.io/Front-end-development/calculator.html
 ![calculator](https://github.com/user-attachments/assets/f948ce17-23df-42c7-8491-35f333cb02f2)
+https://vishnushivan639-web.github.io/Front-end-development/clock.html
+![digital clock](https://github.com/user-attachments/assets/bfa00e98-33f9-4358-9367-b259a4bd3938)
 
