@@ -25,4 +25,6 @@ https://vishnushivan639-web.github.io/Front-end-development/clock.html
 ![digital clock](https://github.com/user-attachments/assets/bfa00e98-33f9-4358-9367-b259a4bd3938)
  https://vishnushivan639-web.github.io/Front-end-development/todolist.html
  <img width="627" height="344" alt="Todolist1" src="https://github.com/user-attachments/assets/d1ad5a2b-1aab-46af-a4a9-a467abfc9423" />
+https://vishnushivan639-web.github.io/Front-end-development/event.html
+<img width="825" height="637" alt="event" src="https://github.com/user-attachments/assets/7806398d-a223-4c1a-959a-15becd9fa003" />
 
