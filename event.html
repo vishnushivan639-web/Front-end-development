@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All JavaScript Events Example</title>
+<style>
+body{
+    font-family:"Times New Roman";
+    text-align:center;
+    background-color:white;
+}
+.container{
+    margin-top:50px;
+}
+
+button,input{
+    padding:10px 20px;
+    font-size:16px;
+    margin:10px;
+}
+#message{
+    font-size:20px;
+    color:blue;
+    margin-top:20px;
+}
+</style>
+<script>
+function showMessage(){
+    document.getElementById("message").innerHTML=
+    "Button Click Event Triggered!";
+}
+function changeColor(){
+    document.body.style.backgroundColor="lightyellow";
+}
+function resetColor(){
+    document.body.style.backgroundColor="white";
+}
+function doubleClick(){
+    alert("Double Click Event Triggered!");
+}
+function keyPress(){
+    document.getElementById("message").innerHTML=
+    "Key Press Event Triggered!";
+}
+function focusEvent(){
+    document.getElementById("message").innerHTML=
+    "Input Box Focused!";
+}
+function blurEvent(){
+    document.getElementById("message").innerHTML=
+    "Input Box Lost Focus!";
+}
+function changeEvent(){
+    document.getElementById("message").innerHTML=
+    "Value Changed!";
+}
+function pageLoaded(){
+    alert("Page Loaded Successfully!");
+}
+</script>
+</head>
+<body onload="pageLoaded()">
+<div class="container">
+<h2>JavaScript Event Handling</h2>
+<button onclick="showMessage()">Click Me</button>
+<button onmouseover="changeColor()" 
+        onmouseout="resetColor()">
+        Hover Over Me
+</button>
+<button ondblclick="doubleClick()">
+    Double Click Me
+</button>
+<br><br>
+<input type="text" 
+       placeholder="Type Something"
+       onkeypress="keyPress()">
+<br>
+<input type="text"
+       placeholder="Focus & Blur Event"
+       onfocus="focusEvent()"
+       onblur="blurEvent()">
+
+<br>
+<select onchange="changeEvent()">
+    <option>Select</option>
+    <option>HTML</option>
+    <option>CSS</option>
+    <option>JavaScript</option>
+</select>
+<p id="message"></p>
+</div>
+</body>
+</html>
