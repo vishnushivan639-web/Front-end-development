@@ -27,4 +27,7 @@ https://vishnushivan639-web.github.io/Front-end-development/clock.html
  <img width="627" height="344" alt="Todolist1" src="https://github.com/user-attachments/assets/d1ad5a2b-1aab-46af-a4a9-a467abfc9423" />
 https://vishnushivan639-web.github.io/Front-end-development/event.html
 <img width="825" height="637" alt="event" src="https://github.com/user-attachments/assets/7806398d-a223-4c1a-959a-15becd9fa003" />
+https://vishnushivan639-web.github.io/Front-end-development/weather.html
+<img width="882" height="517" alt="wheathers1" src="https://github.com/user-attachments/assets/82f6b3c5-fca8-4245-a1fa-5f15175df1e4" />
+<img width="730" height="488" alt="wheathers2" src="https://github.com/user-attachments/assets/76121470-6b32-4984-ae1a-606c56da26fc" />
 
