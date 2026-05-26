@@ -30,6 +30,8 @@ https://vishnushivan639-web.github.io/Front-end-development/event.html
 https://vishnushivan639-web.github.io/Front-end-development/weather.html
 https://vishnushivan639-web.github.io/Front-end-development/bootstrapcomponents.html
 <img width="1366" height="639" alt="bootstarp" src="https://github.com/user-attachments/assets/a64ccf49-a7e3-4037-88aa-902ad5be3e01" />
+https://vishnushivan639-web.github.io/Front-end-development/fontawesome.html
+<img width="1360" height="451" alt="image" src="https://github.com/user-attachments/assets/f8912aa8-2e55-474e-8280-234a2a03abb1" />
 
 <img width="882" height="517" alt="wheathers1" src="https://github.com/user-attachments/assets/82f6b3c5-fca8-4245-a1fa-5f15175df1e4" />
 <img width="730" height="488" alt="wheathers2" src="https://github.com/user-attachments/assets/76121470-6b32-4984-ae1a-606c56da26fc" />
