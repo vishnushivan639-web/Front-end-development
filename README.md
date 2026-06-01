@@ -37,4 +37,9 @@ https://vishnushivan639-web.github.io/Front-end-development/fontawesome.html
 <img width="730" height="488" alt="wheathers2" src="https://github.com/user-attachments/assets/76121470-6b32-4984-ae1a-606c56da26fc" />
 https://vishnushivan639-web.github.io/Front-end-development/responsivewebpage
 <img width="1364" height="637" alt="responsivewebpage" src="https://github.com/user-attachments/assets/550de4d8-b990-48de-868e-abb8061c933e" />
+https://vishnushivan639-web.github.io/Front-end-development/simplepagelayoutusingjs.html
+<img width="1366" height="580" alt="simplelayout" src="https://github.com/user-attachments/assets/4344147e-a956-49c0-9ee8-02f84b86a008" />
+https://vishnushivan639-web.github.io/Front-end-development/simplereactapp.html
+<img width="537" height="370" alt="simplereactapp" src="https://github.com/user-attachments/assets/f99403bd-d3d2-4bdb-874f-4e9f7aaf84eb" />
+
 
