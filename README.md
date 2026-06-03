@@ -41,5 +41,7 @@ https://vishnushivan639-web.github.io/Front-end-development/simplepagelayoutusin
 <img width="1366" height="580" alt="simplelayout" src="https://github.com/user-attachments/assets/4344147e-a956-49c0-9ee8-02f84b86a008" />
 https://vishnushivan639-web.github.io/Front-end-development/simplereactapp.html
 <img width="537" height="370" alt="simplereactapp" src="https://github.com/user-attachments/assets/f99403bd-d3d2-4bdb-874f-4e9f7aaf84eb" />
+https://vishnushivan639-web.github.io/Front-end-development/coffeeshopweb.html
+<img width="1366" height="637" alt="coffee" src="https://github.com/user-attachments/assets/bab886a6-840c-4aca-9b93-9ff122b177b2" />
 
 
