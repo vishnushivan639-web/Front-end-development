@@ -43,5 +43,8 @@ https://vishnushivan639-web.github.io/Front-end-development/simplereactapp.html
 <img width="537" height="370" alt="simplereactapp" src="https://github.com/user-attachments/assets/f99403bd-d3d2-4bdb-874f-4e9f7aaf84eb" />
 https://vishnushivan639-web.github.io/Front-end-development/coffeeshopweb.html
 <img width="1366" height="637" alt="coffee" src="https://github.com/user-attachments/assets/bab886a6-840c-4aca-9b93-9ff122b177b2" />
+https://vishnushivan639-web.github.io/Front-end-development/collegeweb.html
+<img width="866" height="426" alt="collegeweb1" src="https://github.com/user-attachments/assets/7f216f91-78b3-43a7-9da5-199b85e3ec7b" />
+<img width="1346" height="624" alt="collegeweb2" src="https://github.com/user-attachments/assets/282278aa-5026-41b7-a38c-263841a75443" />
 
 
